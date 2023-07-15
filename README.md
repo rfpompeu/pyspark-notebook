@@ -25,3 +25,6 @@ To run the Jupyter Notebook environment with PySpark, follow these steps:
    ```
 
 Running the above command will start the Docker container, and you can access the Jupyter Notebook in your browser using port 8888.
+
+
+![Descrição da imagem](work.png)
